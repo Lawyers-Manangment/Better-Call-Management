@@ -1,2 +1,2 @@
 # Better-Call-Manangment
-A manangment system for lawyers office.
+This is a project to a manangment system for lawyers office. On Development.
